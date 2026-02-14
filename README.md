@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 *Adjust this section to match your actual build.*
 
-- **Framework:** [Next.js](https://nextjs.org/) / [Hugo](https://gohugo.io/) / [WordPress](https://wordpress.org/) / [Astro](https://astro.build/)
+- **Framework:** [Next.js](https://nextjs.org/) / [Hugo](https://gohugo.io/) / [Astro](https://astro.build/)
 - **Styling:** Tailwind CSS / Vanilla CSS
 - **Content Management:** Markdown / Decap CMS / Sanity.io
 - **Arabic Fonts:** Support for Uthmani/Amiri/Quranic fonts
