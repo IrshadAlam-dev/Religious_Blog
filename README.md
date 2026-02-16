@@ -1,5 +1,4 @@
 # نورالإيمان - Nūr al-Īmān (Light of Faith)
-![Blog Banner](link-to-your-banner-image.jpg)
 
 **نورالإيمان (Nūr al-Īmān)** is a personal Islamic blog dedicated to sharing knowledge about the Qur'an, Sunnah, Seerah, and the beauty of living a life centered around Tawheed. This space is intended to be a digital gathering place for reflection, reminders, and seeking closeness to Allah (سبحانه وتعالى).
 
