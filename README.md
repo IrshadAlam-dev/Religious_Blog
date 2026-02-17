@@ -21,3 +21,13 @@
 - **Content Management:** Markdown / Decap CMS / Sanity.io
 - **Arabic Fonts:** Support for Uthmani/Amiri/Quranic fonts
 - **Deployment:** Vercel / Netlify / GitHub Pages
+
+## 🤝 Contributing
+
+We welcome contributions that align with the blog's mission to spread authentic Islamic knowledge.
+
+- **Report a bug** or **suggest a feature** by opening an [Issue](link-to-issues).
+- **Submit a pull request** for any improvements or fixes.
+- **Guest Posts:** If you have a beneficial article to share, please contact us first to discuss the topic.
+
+Please ensure all content is accurate, references authentic sources, and is free from innovation (bid'ah).
