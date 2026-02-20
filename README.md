@@ -2,7 +2,7 @@
 
 **نورالإيمان (Nūr al-Īmān)** is a personal Islamic blog dedicated to sharing knowledge about the Qur'an, Sunnah, Seerah, and the beauty of living a life centered around Tawheed. This space is intended to be a digital gathering place for reflection, reminders, and seeking closeness to Allah (سبحانه وتعالى).
 
-**Core Mission:** To spread beneficial knowledge and inspire righteous deeds, seeking the pleasure of God Almighty alone.
+**Our Mission:** To spread beneficial knowledge and inspire righteous deeds, seeking the pleasure of God Almighty alone.
 
 ## ✨ Features
 - **Responsive Design:** Clean, distraction-free reading on all devices.
